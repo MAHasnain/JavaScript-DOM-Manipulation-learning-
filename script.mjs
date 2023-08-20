@@ -10,6 +10,23 @@
 // 
 
 
-let myName = document.querySelector('.box')
+let myName = document.querySelector('.heading')
 
-console.log(myName);
+// let a = document.querySelector('.box')
+// a.innerHTML = "as"
+
+
+myName.innerHTML = "atta"
+// myName.innerHTML = "asdf"
+
+// myName.style.backgroundColor = "blue"
+
+
+
+
+
+
+//   Event listener
+
+//  kisi bhi movement ko sun kr react krne wala
+
